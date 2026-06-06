@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title">
+  <title id="title">Cyclic LTD LinkedIn logo</title>
+  <rect width="1200" height="1200" fill="#ffffff" />
+  <g transform="translate(240 240) scale(7.5)">
+    <defs>
+      <linearGradient id="gold-gradient" x1="16" y1="16" x2="82" y2="56" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff0a8" />
+        <stop offset="0.34" stop-color="#d9a83f" />
+        <stop offset="0.68" stop-color="#8f6420" />
+        <stop offset="1" stop-color="#f2c765" />
+      </linearGradient>
+    </defs>
+    <path d="M66 24 C59 17 49 15 39 19 C25 25 18 40 22 55 C27 73 46 82 63 74" fill="none" stroke="url(#gold-gradient)" stroke-width="8" stroke-linecap="round" />
+    <path d="M37 35 V62" stroke="url(#gold-gradient)" stroke-width="5" stroke-linecap="round" />
+    <rect x="31" y="42" width="12" height="14" rx="2" fill="url(#gold-gradient)" />
+    <path d="M52 28 V66" stroke="url(#gold-gradient)" stroke-width="5" stroke-linecap="round" />
+    <rect x="46" y="38" width="12" height="18" rx="2" fill="url(#gold-gradient)" />
+    <path d="M67 32 V60" stroke="url(#gold-gradient)" stroke-width="5" stroke-linecap="round" />
+    <rect x="61" y="39" width="12" height="12" rx="2" fill="url(#gold-gradient)" />
+  </g>
+</svg>
